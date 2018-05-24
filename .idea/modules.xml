@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../IdeaProjects.iml" filepath="$PROJECT_DIR$/../IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../scala-basic/rational/src/main/main1.iml" filepath="$PROJECT_DIR$/../scala-basic/rational/src/main/main1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/test0523.iml" filepath="$PROJECT_DIR$/.idea/modules/test0523.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/test0523-build.iml" filepath="$PROJECT_DIR$/.idea/modules/test0523-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../scala-basic/rational/src/main/test0524.iml" filepath="$PROJECT_DIR$/../scala-basic/rational/src/main/test0524.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../scala-basic/rational/src/test/test1.iml" filepath="$PROJECT_DIR$/../scala-basic/rational/src/test/test1.iml" />
     </modules>
   </component>
 </project>

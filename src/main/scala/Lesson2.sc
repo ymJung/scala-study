@@ -50,4 +50,6 @@ object Lesson2 {
   val admin = new Admin
   admin.show
 
+
 }
+

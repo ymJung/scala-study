@@ -1,5 +1,10 @@
 import scala.annotation.tailrec
 
+/**
+  * 장점 ?
+  *  - 스칼라가 사용되는곳이 많다. (하둡, 스파크, 개틀링(성능측정), 카프카 등)
+  *  - 함수형 언어 중 실무에서 쓸만한 언어
+  */
 val x = 1
 val message : String = "hello scala"
 
